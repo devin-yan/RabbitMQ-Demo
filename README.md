@@ -1,2 +1,2 @@
 # RabbitMQ-Demo
-demo for RabbitMQ 3.6.6
+Demo for RabbitMQ 3.6.6
